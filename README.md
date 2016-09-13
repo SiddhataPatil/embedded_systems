@@ -40,13 +40,25 @@ Let us talk about Smartphones, you are having one right now not more than 2 feet
 As we saw in Laptops world the two big names where Intel and AMD. In smart phone world there is 
 one big name and that is ARM. Now ARM does not have a fabrication plant like Intel, so what it does
 is, it parteners with compinies like Apple, Samsung, Qualcolm, Hwawei etc. and sell their licences.
-There are two main types of licences, one is the core licence (use A53 or A 57 as it is) and then
-there is something known as the architecture design licence (where you actually modify the architectures).
+There are two main types of licences, one is the core licence (use A53 or A 57 as it is or making one 
+core run at a lower frequency than the other) and then there is something known as the architecture 
+design licence (where you actually modify the architectures).
 This thing gave rise to a term called ' Custom Cores '. In April 2008, Apple acquired PASemi and 
 together came up with the first 32-bit custom core called Swift which they introduced in iPhone 5
 in September 2012. Exactly a year later, September 2013, Apple came up with their first custom 64-bit 
 Microcontroller A7, Cyclone which they introduced in their iPhone 5s. In June 2013, Qualcomm had 
 announced Snapdragon 801 which was 32 bit. Then later in April 2013, they released Snapdragon 808 and 810,
 which are 64 bit. This was done by using  four cores of Cortex A53 and four cores of cortex A57 
-(i.e. using these cores and not actually a custom core). Qualcomm came up with their first 64 bit custom core 820,
-called Kryo and released it on  and Samsung released their exynos 
+(i.e. using these cores and not actually a custom core). Qualcomm came up with their first 64 bit custom core 
+Snapdragon 820 (14nm), called Kryo CPU and released it in November 2015 and its first smart phone was launched in 
+Jan 2016 during the CES. Samsung came up with their first custom 64 bit CPU in their famous Exynos SOC (14nm) series
+early 2016 and its called the Mongoose. They released it with Samsung Galaxy S7 just last month ie August 2016.
+So we were talking about Apple, In 2016, when Qualcomm and Samsung are out with their 1st gen of 64 bit custom cores,
+Apple is out with its 4th gen custom core ie A10 (14nm) and launched it in iPhone 7 just two days ago i.e. early
+September last week i.e. early September 2016. 
+
+-Siddhata Patil
+
+P.S. I am here just stating some fun facts, I am not in favor of any company!
+Fun fact about me: I am a core Android user myself ! I am just plain excited to be witnessing all this
+technologies growing every single day right here in the Silicon Valley.

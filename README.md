@@ -57,8 +57,12 @@ So we were talking about Apple, In 2016, when Qualcomm and Samsung are out with 
 Apple is out with its 4th gen custom core ie A10 (14nm) and launched it in iPhone 7 just two days ago i.e. early
 September last week i.e. early September 2016. 
 
+So as we can see, there is so much competition in this domain, literally pushing each other to acheive great goals,
+But then there lies a great question, all this hype about 64-bit. For a 32 bit microcontroller it can access upto
+2^32 i.e. 4GB, while for a 64-bit microcontroller it can access upto 2^64 i.e. 16 EXA bytes. Trust me thats a lot.
+Are you really going to use that much memory on your phone?
+
 -Siddhata Patil
 
-P.S. I am here just stating some fun facts, I am not in favor of any company!
-Fun fact about me: I am a core Android user myself ! I am just plain excited to be witnessing all this
-technologies growing every single day right here in the Silicon Valley.
+P.S. I am here just stating some fun facts, I am not in favor of any company! I am a core Android user myself ! 
+I am just plain excited to be witnessing all this technologies growing every single day right here in the Silicon Valley.
